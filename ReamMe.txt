@@ -1,0 +1,16 @@
+- ViewModel
+- Repository
+- Room
+- Navigation (Navigation graph)
+- View binding
+- MVVM
+- LiveData
+- Datastore
+- Coroutine
+- WorkManager
+- Hilt for dependency injection
+
+https://jsonplaceholder.typicode.com/
+
+
+// Make the generic call back for retrofit response.
